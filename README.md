@@ -5,6 +5,7 @@ A full-stack Netflix clone built with React.js, Node.js, Express.js, MongoDB, an
 ## 🔗 Live Demo
 
 Check out the live version of the project at [this link](https://netflix-clone-imu4.onrender.com/).
+It takes 1 minute to load so please be patient.
 
 ## ⚛️ Tech Stack
 
